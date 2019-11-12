@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ikorarey/family-money-planner#readme",
   "dependencies": {
-    "react": "^16.11.0"
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0"
   }
 }
