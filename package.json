@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ikorarey/family-money-planner/issues"
   },
-  "homepage": "https://github.com/ikorarey/family-money-planner#readme"
+  "homepage": "https://github.com/ikorarey/family-money-planner#readme",
+  "dependencies": {
+    "react": "^16.11.0"
+  }
 }
