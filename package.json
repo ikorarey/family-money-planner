@@ -1,0 +1,19 @@
+{
+  "name": "family-money-planner",
+  "version": "1.0.0",
+  "description": "A family money planner for a family to put together their financial plan ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikorarey/family-money-planner.git"
+  },
+  "author": "Ikora Rey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikorarey/family-money-planner/issues"
+  },
+  "homepage": "https://github.com/ikorarey/family-money-planner#readme"
+}
